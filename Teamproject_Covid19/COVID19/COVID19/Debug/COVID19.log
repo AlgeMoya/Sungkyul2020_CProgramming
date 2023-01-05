@@ -1,0 +1,14 @@
+﻿  fileinout.c
+  ko.c
+  kang.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\kang.c(144): warning C4716: 'recently': 값을 반환해야 합니다.
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\kang.c(241): warning C4715: 'socialdistance_all': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\kang.c(220): warning C4715: 'socialdistance_seoul': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\kang.c(262): warning C4715: 'socialdistance_gangwonjeju': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\kang.c(199): warning C4716: 'socialdistancegrade': 값을 반환해야 합니다.
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\ko.c(66): warning C4716: 'socialdistanceinfo': 값을 반환해야 합니다.
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\ko.c(133): warning C4716: 'countryrank': 값을 반환해야 합니다.
+C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\COVID19\fileinout.c(39): warning C4715: 'globalinput': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  COVID19.vcxproj -> C:\Users\kjhob\Dropbox\성결대\2020-2학기\C프로그래밍응용\조별과제\COVID19\Debug\COVID19.exe
