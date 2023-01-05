@@ -1,0 +1,5 @@
+﻿  floatunderflow_20200414.c
+C:\Users\kjhob\Dropbox\성결대\C프로그래밍\Practice Projects\20200414\20200414\floatunderflow_20200414.c(5,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kjhob\Dropbox\성결대\C프로그래밍\Practice Projects\20200414\20200414\floatunderflow_20200414.c(6,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kjhob\Dropbox\성결대\C프로그래밍\Practice Projects\20200414\20200414\floatunderflow_20200414.c(7,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  20200414.vcxproj -> C:\Users\kjhob\Dropbox\성결대\C프로그래밍\Practice Projects\20200414\Debug\20200414.exe
